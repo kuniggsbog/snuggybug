@@ -1,0 +1,4048 @@
+{
+  "gbg": [
+    {
+      "Player_ID": "854681998",
+      "Player": "Zodman",
+      "Negotiations": 0,
+      "Fights": 7097,
+      "Total": 7097,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "1234051",
+      "Player": "Devils Deciple.",
+      "Negotiations": 0,
+      "Fights": 5744,
+      "Total": 5744,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "7954450",
+      "Player": "Bloody Pastor",
+      "Negotiations": 116,
+      "Fights": 5451,
+      "Total": 5683,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "4225910",
+      "Player": "Hadrian the Intrepid 121",
+      "Negotiations": 1,
+      "Fights": 5653,
+      "Total": 5655,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "9795849",
+      "Player": "Magnus the Terrible 439",
+      "Negotiations": 500,
+      "Fights": 4418,
+      "Total": 5418,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "1758550",
+      "Player": "marco965",
+      "Negotiations": 0,
+      "Fights": 5251,
+      "Total": 5251,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "2277993",
+      "Player": "Crusaderx",
+      "Negotiations": 0,
+      "Fights": 5245,
+      "Total": 5245,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "10593569",
+      "Player": "Badvok the Bold",
+      "Negotiations": 0,
+      "Fights": 5078,
+      "Total": 5078,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "851598404",
+      "Player": "-Baba Yaga-",
+      "Negotiations": 9,
+      "Fights": 4661,
+      "Total": 4679,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "9762415",
+      "Player": "0p1ate",
+      "Negotiations": 0,
+      "Fights": 4619,
+      "Total": 4619,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "853735377",
+      "Player": "MOMIS",
+      "Negotiations": 4,
+      "Fights": 4511,
+      "Total": 4519,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "8622496",
+      "Player": "Waynes world1",
+      "Negotiations": 0,
+      "Fights": 4480,
+      "Total": 4480,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "855031788",
+      "Player": "Blackcong",
+      "Negotiations": 0,
+      "Fights": 3947,
+      "Total": 3947,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "4194345",
+      "Player": "becop",
+      "Negotiations": 0,
+      "Fights": 3876,
+      "Total": 3876,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "849612867",
+      "Player": "TINY HEROS",
+      "Negotiations": 16,
+      "Fights": 3728,
+      "Total": 3760,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "855546281",
+      "Player": "pForm",
+      "Negotiations": 0,
+      "Fights": 3716,
+      "Total": 3716,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "855640309",
+      "Player": "Claudius titus",
+      "Negotiations": 0,
+      "Fights": 3661,
+      "Total": 3661,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "849603210",
+      "Player": "TSTT",
+      "Negotiations": 0,
+      "Fights": 3629,
+      "Total": 3629,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "45238",
+      "Player": "Frodoo",
+      "Negotiations": 0,
+      "Fights": 3609,
+      "Total": 3609,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "853267111",
+      "Player": "Kuniggsbog",
+      "Negotiations": 0,
+      "Fights": 3571,
+      "Total": 3571,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "705849",
+      "Player": "lasherbob",
+      "Negotiations": 0,
+      "Fights": 3496,
+      "Total": 3496,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "851800597",
+      "Player": "Meandmyself",
+      "Negotiations": 0,
+      "Fights": 3325,
+      "Total": 3325,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "851914808",
+      "Player": "Selene the Blessed 1233",
+      "Negotiations": 0,
+      "Fights": 3265,
+      "Total": 3265,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "851298155",
+      "Player": "willow324",
+      "Negotiations": 0,
+      "Fights": 3149,
+      "Total": 3149,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "11442171",
+      "Player": "High Lord Timbum",
+      "Negotiations": 0,
+      "Fights": 3047,
+      "Total": 3047,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "1891201",
+      "Player": "edman4444",
+      "Negotiations": 0,
+      "Fights": 3012,
+      "Total": 3012,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "855514222",
+      "Player": "HoanggLam",
+      "Negotiations": 0,
+      "Fights": 3005,
+      "Total": 3005,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "852945970",
+      "Player": "Rider on the Storm",
+      "Negotiations": 0,
+      "Fights": 2975,
+      "Total": 2975,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "11807816",
+      "Player": "Dpunk",
+      "Negotiations": 0,
+      "Fights": 2908,
+      "Total": 2908,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "853659232",
+      "Player": "friendly",
+      "Negotiations": 0,
+      "Fights": 2820,
+      "Total": 2820,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "851513926",
+      "Player": "-=LEO=-",
+      "Negotiations": 1,
+      "Fights": 2655,
+      "Total": 2657,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "6141929",
+      "Player": "Carra",
+      "Negotiations": 0,
+      "Fights": 2611,
+      "Total": 2611,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "850665098",
+      "Player": "Ellwinara",
+      "Negotiations": 0,
+      "Fights": 2555,
+      "Total": 2555,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "853197494",
+      "Player": "DaFunkyMonkey",
+      "Negotiations": 0,
+      "Fights": 2525,
+      "Total": 2525,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "4749897",
+      "Player": "DutchTheIV",
+      "Negotiations": 0,
+      "Fights": 2371,
+      "Total": 2371,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "11899618",
+      "Player": "Master A",
+      "Negotiations": 0,
+      "Fights": 2275,
+      "Total": 2275,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "853520455",
+      "Player": "Phillip the Fair",
+      "Negotiations": 0,
+      "Fights": 2246,
+      "Total": 2246,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "854648420",
+      "Player": "Pollar",
+      "Negotiations": 0,
+      "Fights": 2229,
+      "Total": 2229,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "849566070",
+      "Player": "Aspandiat",
+      "Negotiations": 0,
+      "Fights": 2178,
+      "Total": 2178,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "850445151",
+      "Player": "Swan76",
+      "Negotiations": 4,
+      "Fights": 2145,
+      "Total": 2153,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "853106102",
+      "Player": "Brad Field of green",
+      "Negotiations": 0,
+      "Fights": 2039,
+      "Total": 2039,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "12992719",
+      "Player": "ChilliBeanz62",
+      "Negotiations": 0,
+      "Fights": 2009,
+      "Total": 2009,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "854719448",
+      "Player": "ludwig2",
+      "Negotiations": 0,
+      "Fights": 1990,
+      "Total": 1990,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "854882618",
+      "Player": "CCCC123",
+      "Negotiations": 0,
+      "Fights": 1898,
+      "Total": 1898,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "40674",
+      "Player": "VFRMark.",
+      "Negotiations": 0,
+      "Fights": 1884,
+      "Total": 1884,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "849694740",
+      "Player": "Mournblade",
+      "Negotiations": 0,
+      "Fights": 1717,
+      "Total": 1717,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "827787",
+      "Player": "pywackit",
+      "Negotiations": 0,
+      "Fights": 1702,
+      "Total": 1702,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "5544177",
+      "Player": "michealscott123",
+      "Negotiations": 0,
+      "Fights": 1680,
+      "Total": 1680,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "850518321",
+      "Player": "alterdestiny",
+      "Negotiations": 0,
+      "Fights": 1647,
+      "Total": 1647,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "851616738",
+      "Player": "MagicI",
+      "Negotiations": 0,
+      "Fights": 1646,
+      "Total": 1646,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "12351572",
+      "Player": "Cliff59",
+      "Negotiations": 0,
+      "Fights": 1636,
+      "Total": 1636,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "104779",
+      "Player": "VITORO",
+      "Negotiations": 0,
+      "Fights": 1606,
+      "Total": 1606,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "849380627",
+      "Player": "FastGunner",
+      "Negotiations": 0,
+      "Fights": 1591,
+      "Total": 1591,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "853109616",
+      "Player": "VixenQueen",
+      "Negotiations": 0,
+      "Fights": 1516,
+      "Total": 1516,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "5367654",
+      "Player": "King John of Ambler",
+      "Negotiations": 0,
+      "Fights": 1459,
+      "Total": 1459,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "5374197",
+      "Player": "Pammy Norrie",
+      "Negotiations": 0,
+      "Fights": 1292,
+      "Total": 1292,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "1436378",
+      "Player": "Dn4lor",
+      "Negotiations": 0,
+      "Fights": 1284,
+      "Total": 1284,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "850331824",
+      "Player": "Brocksta",
+      "Negotiations": 0,
+      "Fights": 1250,
+      "Total": 1250,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "850307582",
+      "Player": "Rex Bellator",
+      "Negotiations": 0,
+      "Fights": 1200,
+      "Total": 1200,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "9574867",
+      "Player": "Salikas",
+      "Negotiations": 0,
+      "Fights": 1164,
+      "Total": 1164,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "853564293",
+      "Player": "Waikis",
+      "Negotiations": 0,
+      "Fights": 1102,
+      "Total": 1102,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "12685645",
+      "Player": "Brudzilla",
+      "Negotiations": 0,
+      "Fights": 1070,
+      "Total": 1070,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "1724508",
+      "Player": "cvetkovic",
+      "Negotiations": 0,
+      "Fights": 1062,
+      "Total": 1062,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "3556826",
+      "Player": "peri1",
+      "Negotiations": 0,
+      "Fights": 1020,
+      "Total": 1020,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "11482655",
+      "Player": "El Kabong",
+      "Negotiations": 0,
+      "Fights": 947,
+      "Total": 947,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "13309306",
+      "Player": "Ser Arthur Dayne.",
+      "Negotiations": 0,
+      "Fights": 916,
+      "Total": 916,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "2465641",
+      "Player": "=Alpha=Wolf=",
+      "Negotiations": 0,
+      "Fights": 771,
+      "Total": 771,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "852293256",
+      "Player": "Rolanddd",
+      "Negotiations": 0,
+      "Fights": 746,
+      "Total": 746,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "854719004",
+      "Player": "soldier00",
+      "Negotiations": 0,
+      "Fights": 725,
+      "Total": 725,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "854714000",
+      "Player": "sixtyodin",
+      "Negotiations": 0,
+      "Fights": 683,
+      "Total": 683,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "1148549",
+      "Player": "mehdialone",
+      "Negotiations": 0,
+      "Fights": 616,
+      "Total": 616,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "854554840",
+      "Player": "SirRobert Artur",
+      "Negotiations": 0,
+      "Fights": 592,
+      "Total": 592,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "853797540",
+      "Player": "Odinn",
+      "Negotiations": 0,
+      "Fights": 582,
+      "Total": 582,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "11245188",
+      "Player": "Bernini",
+      "Negotiations": 0,
+      "Fights": 552,
+      "Total": 552,
+      "season": "26 Feb - 09 Mar 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:45:32.847297"
+    },
+    {
+      "Player_ID": "5544177",
+      "Player": "michealscott123",
+      "Negotiations": 0,
+      "Fights": 25448,
+      "Total": 25448,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "853267111",
+      "Player": "Kuniggsbog",
+      "Negotiations": 0,
+      "Fights": 8282,
+      "Total": 8282,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "705849",
+      "Player": "lasherbob",
+      "Negotiations": 0,
+      "Fights": 7823,
+      "Total": 7823,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "4225910",
+      "Player": "Hadrian the Intrepid 121",
+      "Negotiations": 0,
+      "Fights": 7768,
+      "Total": 7768,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "1758550",
+      "Player": "marco965",
+      "Negotiations": 0,
+      "Fights": 7438,
+      "Total": 7438,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "9795849",
+      "Player": "Magnus the Terrible 439",
+      "Negotiations": 550,
+      "Fights": 5318,
+      "Total": 6418,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "851598404",
+      "Player": "-Baba Yaga-",
+      "Negotiations": 0,
+      "Fights": 5900,
+      "Total": 5900,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "10593569",
+      "Player": "Badvok the Bold",
+      "Negotiations": 0,
+      "Fights": 5493,
+      "Total": 5493,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "855546281",
+      "Player": "pForm",
+      "Negotiations": 0,
+      "Fights": 5429,
+      "Total": 5429,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "2277993",
+      "Player": "Crusaderx",
+      "Negotiations": 0,
+      "Fights": 5296,
+      "Total": 5296,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "9762415",
+      "Player": "0p1ate",
+      "Negotiations": 0,
+      "Fights": 5055,
+      "Total": 5055,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "851914808",
+      "Player": "Selene the Blessed 1233",
+      "Negotiations": 0,
+      "Fights": 4988,
+      "Total": 4988,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "855031788",
+      "Player": "Blackcong",
+      "Negotiations": 0,
+      "Fights": 4632,
+      "Total": 4632,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "6141929",
+      "Player": "Carra",
+      "Negotiations": 0,
+      "Fights": 4608,
+      "Total": 4608,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "40674",
+      "Player": "VFRMark.",
+      "Negotiations": 10,
+      "Fights": 4539,
+      "Total": 4559,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "8622496",
+      "Player": "Waynes world1",
+      "Negotiations": 0,
+      "Fights": 4427,
+      "Total": 4427,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "11442171",
+      "Player": "High Lord Timbum",
+      "Negotiations": 0,
+      "Fights": 4397,
+      "Total": 4397,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "849566070",
+      "Player": "Aspandiat",
+      "Negotiations": 0,
+      "Fights": 4205,
+      "Total": 4205,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "851513926",
+      "Player": "-=LEO=-",
+      "Negotiations": 0,
+      "Fights": 4122,
+      "Total": 4122,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "849603210",
+      "Player": "TSTT",
+      "Negotiations": 0,
+      "Fights": 4052,
+      "Total": 4052,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "854681998",
+      "Player": "Zodman",
+      "Negotiations": 0,
+      "Fights": 4043,
+      "Total": 4043,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "11899618",
+      "Player": "Master A",
+      "Negotiations": 0,
+      "Fights": 3927,
+      "Total": 3927,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "1234051",
+      "Player": "Devils Deciple.",
+      "Negotiations": 0,
+      "Fights": 3917,
+      "Total": 3917,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "853735377",
+      "Player": "MOMIS",
+      "Negotiations": 0,
+      "Fights": 3916,
+      "Total": 3916,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "45238",
+      "Player": "Frodoo",
+      "Negotiations": 0,
+      "Fights": 3854,
+      "Total": 3854,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "851298155",
+      "Player": "willow324",
+      "Negotiations": 0,
+      "Fights": 3828,
+      "Total": 3828,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "1891201",
+      "Player": "edman4444",
+      "Negotiations": 0,
+      "Fights": 3737,
+      "Total": 3737,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "12685645",
+      "Player": "Brudzilla",
+      "Negotiations": 0,
+      "Fights": 3650,
+      "Total": 3650,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "11807816",
+      "Player": "Dpunk",
+      "Negotiations": 0,
+      "Fights": 3382,
+      "Total": 3382,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "4194345",
+      "Player": "becop",
+      "Negotiations": 0,
+      "Fights": 3341,
+      "Total": 3341,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "850445151",
+      "Player": "Swan76",
+      "Negotiations": 33,
+      "Fights": 3104,
+      "Total": 3170,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "855640309",
+      "Player": "Claudius titus",
+      "Negotiations": 0,
+      "Fights": 3121,
+      "Total": 3121,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "851800597",
+      "Player": "Meandmyself",
+      "Negotiations": 0,
+      "Fights": 3089,
+      "Total": 3089,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "12992719",
+      "Player": "ChilliBeanz62",
+      "Negotiations": 0,
+      "Fights": 3062,
+      "Total": 3062,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "850518321",
+      "Player": "alterdestiny",
+      "Negotiations": 0,
+      "Fights": 3034,
+      "Total": 3034,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "851616738",
+      "Player": "MagicI",
+      "Negotiations": 0,
+      "Fights": 2996,
+      "Total": 2996,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "11245188",
+      "Player": "Bernini",
+      "Negotiations": 0,
+      "Fights": 2960,
+      "Total": 2960,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "853520455",
+      "Player": "Phillip the Fair",
+      "Negotiations": 0,
+      "Fights": 2951,
+      "Total": 2951,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "850331824",
+      "Player": "Brocksta",
+      "Negotiations": 0,
+      "Fights": 2857,
+      "Total": 2857,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "827787",
+      "Player": "pywackit",
+      "Negotiations": 0,
+      "Fights": 2787,
+      "Total": 2787,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "854648420",
+      "Player": "Pollar",
+      "Negotiations": 0,
+      "Fights": 2767,
+      "Total": 2767,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "853659232",
+      "Player": "friendly",
+      "Negotiations": 0,
+      "Fights": 2637,
+      "Total": 2637,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "849380627",
+      "Player": "FastGunner",
+      "Negotiations": 0,
+      "Fights": 2483,
+      "Total": 2483,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "1148549",
+      "Player": "mehdialone",
+      "Negotiations": 0,
+      "Fights": 2483,
+      "Total": 2483,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "853109616",
+      "Player": "VixenQueen",
+      "Negotiations": 4,
+      "Fights": 2443,
+      "Total": 2451,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "854719448",
+      "Player": "ludwig2",
+      "Negotiations": 0,
+      "Fights": 2302,
+      "Total": 2302,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "13309306",
+      "Player": "Ser Arthur Dayne.",
+      "Negotiations": 1,
+      "Fights": 2295,
+      "Total": 2297,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "849612867",
+      "Player": "TINY HEROS",
+      "Negotiations": 0,
+      "Fights": 2265,
+      "Total": 2265,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "1436378",
+      "Player": "Dn4lor",
+      "Negotiations": 0,
+      "Fights": 2179,
+      "Total": 2179,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "4749897",
+      "Player": "DutchTheIV",
+      "Negotiations": 0,
+      "Fights": 2144,
+      "Total": 2144,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "5367654",
+      "Player": "King John of Ambler",
+      "Negotiations": 0,
+      "Fights": 2112,
+      "Total": 2112,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "854882618",
+      "Player": "CCCC123",
+      "Negotiations": 0,
+      "Fights": 2039,
+      "Total": 2039,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "12351572",
+      "Player": "Cliff59",
+      "Negotiations": 0,
+      "Fights": 1954,
+      "Total": 1954,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "850307582",
+      "Player": "Rex Bellator",
+      "Negotiations": 0,
+      "Fights": 1750,
+      "Total": 1750,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "11482655",
+      "Player": "El Kabong",
+      "Negotiations": 0,
+      "Fights": 1710,
+      "Total": 1710,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "5374197",
+      "Player": "Pammy Norrie",
+      "Negotiations": 0,
+      "Fights": 1628,
+      "Total": 1628,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "853564293",
+      "Player": "Waikis",
+      "Negotiations": 0,
+      "Fights": 1386,
+      "Total": 1386,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "104779",
+      "Player": "VITORO",
+      "Negotiations": 0,
+      "Fights": 1337,
+      "Total": 1337,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "9574867",
+      "Player": "Salikas",
+      "Negotiations": 0,
+      "Fights": 1330,
+      "Total": 1330,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "854719004",
+      "Player": "soldier00",
+      "Negotiations": 0,
+      "Fights": 1173,
+      "Total": 1173,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "1724508",
+      "Player": "cvetkovic",
+      "Negotiations": 0,
+      "Fights": 1106,
+      "Total": 1106,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "854714000",
+      "Player": "sixtyodin",
+      "Negotiations": 0,
+      "Fights": 1027,
+      "Total": 1027,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "3556826",
+      "Player": "peri1",
+      "Negotiations": 0,
+      "Fights": 982,
+      "Total": 982,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "2465641",
+      "Player": "=Alpha=Wolf=",
+      "Negotiations": 0,
+      "Fights": 974,
+      "Total": 974,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "853797540",
+      "Player": "Odinn",
+      "Negotiations": 0,
+      "Fights": 806,
+      "Total": 806,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "851585890",
+      "Player": "SharpSabrina",
+      "Negotiations": 0,
+      "Fights": 703,
+      "Total": 703,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "850665098",
+      "Player": "Ellwinara",
+      "Negotiations": 0,
+      "Fights": 630,
+      "Total": 630,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "761097",
+      "Player": "gareth dragonsbane",
+      "Negotiations": 0,
+      "Fights": 623,
+      "Total": 623,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "854554840",
+      "Player": "SirRobert Artur",
+      "Negotiations": 0,
+      "Fights": 564,
+      "Total": 564,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "853106102",
+      "Player": "Brad Field of green",
+      "Negotiations": 0,
+      "Fights": 494,
+      "Total": 494,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "852293256",
+      "Player": "Rolanddd",
+      "Negotiations": 0,
+      "Fights": 421,
+      "Total": 421,
+      "season": "12 Feb - 23 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T00:49:56.725425"
+    },
+    {
+      "Player_ID": "11442171",
+      "Player": "High Lord Timbum",
+      "Negotiations": 1,
+      "Fights": 6013,
+      "Total": 6015,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "849380627",
+      "Player": "FastGunner",
+      "Negotiations": 0,
+      "Fights": 5954,
+      "Total": 5954,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "851598404",
+      "Player": "-Baba Yaga-",
+      "Negotiations": 0,
+      "Fights": 5694,
+      "Total": 5694,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "1758550",
+      "Player": "marco965",
+      "Negotiations": 0,
+      "Fights": 5679,
+      "Total": 5679,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "851914808",
+      "Player": "Selene the Blessed 1233",
+      "Negotiations": 0,
+      "Fights": 5677,
+      "Total": 5677,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "849603210",
+      "Player": "TSTT",
+      "Negotiations": 0,
+      "Fights": 5416,
+      "Total": 5416,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "9795849",
+      "Player": "Magnus the Terrible 439",
+      "Negotiations": 555,
+      "Fights": 4103,
+      "Total": 5213,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "2277993",
+      "Player": "Crusaderx",
+      "Negotiations": 0,
+      "Fights": 4939,
+      "Total": 4939,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "705849",
+      "Player": "lasherbob",
+      "Negotiations": 0,
+      "Fights": 4592,
+      "Total": 4592,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "4225910",
+      "Player": "Hadrian the Intrepid 121",
+      "Negotiations": 0,
+      "Fights": 4110,
+      "Total": 4110,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "8622496",
+      "Player": "Waynes world1",
+      "Negotiations": 0,
+      "Fights": 4082,
+      "Total": 4082,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "855546281",
+      "Player": "pForm",
+      "Negotiations": 0,
+      "Fights": 3915,
+      "Total": 3915,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "10593569",
+      "Player": "Badvok the Bold",
+      "Negotiations": 0,
+      "Fights": 3874,
+      "Total": 3874,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "855031788",
+      "Player": "Blackcong",
+      "Negotiations": 0,
+      "Fights": 3586,
+      "Total": 3586,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "853735377",
+      "Player": "MOMIS",
+      "Negotiations": 0,
+      "Fights": 3578,
+      "Total": 3578,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "45238",
+      "Player": "Frodoo",
+      "Negotiations": 0,
+      "Fights": 3558,
+      "Total": 3558,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "11807816",
+      "Player": "Dpunk",
+      "Negotiations": 0,
+      "Fights": 3450,
+      "Total": 3450,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "5544177",
+      "Player": "michealscott123",
+      "Negotiations": 0,
+      "Fights": 3101,
+      "Total": 3101,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "853659232",
+      "Player": "friendly",
+      "Negotiations": 0,
+      "Fights": 3100,
+      "Total": 3100,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "851800597",
+      "Player": "Meandmyself",
+      "Negotiations": 0,
+      "Fights": 3031,
+      "Total": 3031,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "853267111",
+      "Player": "Kuniggsbog",
+      "Negotiations": 0,
+      "Fights": 2941,
+      "Total": 2941,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "854648420",
+      "Player": "Pollar",
+      "Negotiations": 0,
+      "Fights": 2857,
+      "Total": 2857,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "854681998",
+      "Player": "Zodman",
+      "Negotiations": 0,
+      "Fights": 2661,
+      "Total": 2661,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "4194345",
+      "Player": "becop",
+      "Negotiations": 0,
+      "Fights": 2603,
+      "Total": 2603,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "851298155",
+      "Player": "willow324",
+      "Negotiations": 0,
+      "Fights": 2540,
+      "Total": 2540,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "827787",
+      "Player": "pywackit",
+      "Negotiations": 0,
+      "Fights": 2510,
+      "Total": 2510,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "1891201",
+      "Player": "edman4444",
+      "Negotiations": 0,
+      "Fights": 2337,
+      "Total": 2337,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "4749897",
+      "Player": "DutchTheIV",
+      "Negotiations": 0,
+      "Fights": 2291,
+      "Total": 2291,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "12685645",
+      "Player": "Brudzilla",
+      "Negotiations": 0,
+      "Fights": 2227,
+      "Total": 2227,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "9762415",
+      "Player": "0p1ate",
+      "Negotiations": 0,
+      "Fights": 2188,
+      "Total": 2188,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "11245188",
+      "Player": "Bernini",
+      "Negotiations": 0,
+      "Fights": 2103,
+      "Total": 2103,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "851616738",
+      "Player": "MagicI",
+      "Negotiations": 0,
+      "Fights": 2039,
+      "Total": 2039,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "850518321",
+      "Player": "alterdestiny",
+      "Negotiations": 0,
+      "Fights": 1903,
+      "Total": 1903,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "11899618",
+      "Player": "Master A",
+      "Negotiations": 0,
+      "Fights": 1900,
+      "Total": 1900,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "850331824",
+      "Player": "Brocksta",
+      "Negotiations": 0,
+      "Fights": 1745,
+      "Total": 1745,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "849566070",
+      "Player": "Aspandiat",
+      "Negotiations": 0,
+      "Fights": 1696,
+      "Total": 1696,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "853520455",
+      "Player": "Phillip the Fair",
+      "Negotiations": 0,
+      "Fights": 1662,
+      "Total": 1662,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "1148549",
+      "Player": "mehdialone",
+      "Negotiations": 0,
+      "Fights": 1610,
+      "Total": 1610,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "850445151",
+      "Player": "Swan76",
+      "Negotiations": 11,
+      "Fights": 1564,
+      "Total": 1586,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "104779",
+      "Player": "VITORO",
+      "Negotiations": 0,
+      "Fights": 1462,
+      "Total": 1462,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "854719448",
+      "Player": "ludwig2",
+      "Negotiations": 0,
+      "Fights": 1436,
+      "Total": 1436,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "1436378",
+      "Player": "Dn4lor",
+      "Negotiations": 0,
+      "Fights": 1431,
+      "Total": 1431,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "6141929",
+      "Player": "Carra",
+      "Negotiations": 0,
+      "Fights": 1404,
+      "Total": 1404,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "5367654",
+      "Player": "King John of Ambler",
+      "Negotiations": 0,
+      "Fights": 1330,
+      "Total": 1330,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "853109616",
+      "Player": "VixenQueen",
+      "Negotiations": 0,
+      "Fights": 1313,
+      "Total": 1313,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "849612867",
+      "Player": "TINY HEROS",
+      "Negotiations": 0,
+      "Fights": 1297,
+      "Total": 1297,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "12351572",
+      "Player": "Cliff59",
+      "Negotiations": 0,
+      "Fights": 1261,
+      "Total": 1261,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "850307582",
+      "Player": "Rex Bellator",
+      "Negotiations": 0,
+      "Fights": 1195,
+      "Total": 1195,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "11482655",
+      "Player": "El Kabong",
+      "Negotiations": 0,
+      "Fights": 1188,
+      "Total": 1188,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "851585890",
+      "Player": "SharpSabrina",
+      "Negotiations": 0,
+      "Fights": 1080,
+      "Total": 1080,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "2465641",
+      "Player": "=Alpha=Wolf=",
+      "Negotiations": 0,
+      "Fights": 1057,
+      "Total": 1057,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "5374197",
+      "Player": "Pammy Norrie",
+      "Negotiations": 0,
+      "Fights": 1044,
+      "Total": 1044,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "13309306",
+      "Player": "Ser Arthur Dayne.",
+      "Negotiations": 0,
+      "Fights": 888,
+      "Total": 888,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "1724508",
+      "Player": "cvetkovic",
+      "Negotiations": 0,
+      "Fights": 852,
+      "Total": 852,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "854719004",
+      "Player": "soldier00",
+      "Negotiations": 0,
+      "Fights": 850,
+      "Total": 850,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "9574867",
+      "Player": "Salikas",
+      "Negotiations": 0,
+      "Fights": 798,
+      "Total": 798,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "12992719",
+      "Player": "ChilliBeanz62",
+      "Negotiations": 0,
+      "Fights": 678,
+      "Total": 678,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "850665098",
+      "Player": "Ellwinara",
+      "Negotiations": 0,
+      "Fights": 525,
+      "Total": 525,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "854554840",
+      "Player": "SirRobert Artur",
+      "Negotiations": 0,
+      "Fights": 497,
+      "Total": 497,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "853797540",
+      "Player": "Odinn",
+      "Negotiations": 0,
+      "Fights": 460,
+      "Total": 460,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "853106102",
+      "Player": "Brad Field of green",
+      "Negotiations": 0,
+      "Fights": 349,
+      "Total": 349,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "852293256",
+      "Player": "Rolanddd",
+      "Negotiations": 0,
+      "Fights": 333,
+      "Total": 333,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "854714000",
+      "Player": "sixtyodin",
+      "Negotiations": 0,
+      "Fights": 306,
+      "Total": 306,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "761097",
+      "Player": "gareth dragonsbane",
+      "Negotiations": 0,
+      "Fights": 221,
+      "Total": 221,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "854882618",
+      "Player": "CCCC123",
+      "Negotiations": 0,
+      "Fights": 168,
+      "Total": 168,
+      "season": "29 Jan - 09 Feb 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:10:14.040132"
+    },
+    {
+      "Player_ID": "12782869",
+      "Player": "Qi the coconut",
+      "Negotiations": 0,
+      "Fights": 5865,
+      "Total": 5865,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "705849",
+      "Player": "lasherbob",
+      "Negotiations": 0,
+      "Fights": 5761,
+      "Total": 5761,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "2277993",
+      "Player": "Crusaderx",
+      "Negotiations": 0,
+      "Fights": 5632,
+      "Total": 5632,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "1758550",
+      "Player": "marco965",
+      "Negotiations": 0,
+      "Fights": 5607,
+      "Total": 5607,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "9795849",
+      "Player": "Magnus the Terrible 439",
+      "Negotiations": 415,
+      "Fights": 4756,
+      "Total": 5586,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "851598404",
+      "Player": "-Baba Yaga-",
+      "Negotiations": 0,
+      "Fights": 5562,
+      "Total": 5562,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "851914808",
+      "Player": "Selene the Blessed 1233",
+      "Negotiations": 0,
+      "Fights": 5374,
+      "Total": 5374,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "849380627",
+      "Player": "FastGunner",
+      "Negotiations": 0,
+      "Fights": 5074,
+      "Total": 5074,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "855031788",
+      "Player": "Blackcong",
+      "Negotiations": 0,
+      "Fights": 4854,
+      "Total": 4854,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "9762415",
+      "Player": "0p1ate",
+      "Negotiations": 0,
+      "Fights": 4825,
+      "Total": 4825,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "10593569",
+      "Player": "Badvok the Bold",
+      "Negotiations": 0,
+      "Fights": 4525,
+      "Total": 4525,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "8622496",
+      "Player": "Waynes world1",
+      "Negotiations": 0,
+      "Fights": 4411,
+      "Total": 4411,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "854681998",
+      "Player": "Zodman",
+      "Negotiations": 0,
+      "Fights": 4378,
+      "Total": 4378,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "855299275",
+      "Player": "Thesseuss",
+      "Negotiations": 0,
+      "Fights": 4222,
+      "Total": 4222,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "854648420",
+      "Player": "Pollar",
+      "Negotiations": 0,
+      "Fights": 4124,
+      "Total": 4124,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "4194345",
+      "Player": "becop",
+      "Negotiations": 0,
+      "Fights": 4043,
+      "Total": 4043,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "45238",
+      "Player": "Frodoo",
+      "Negotiations": 0,
+      "Fights": 3975,
+      "Total": 3975,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "853735377",
+      "Player": "MOMIS",
+      "Negotiations": 0,
+      "Fights": 3820,
+      "Total": 3820,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "849603210",
+      "Player": "TSTT",
+      "Negotiations": 0,
+      "Fights": 3732,
+      "Total": 3732,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "853267111",
+      "Player": "Bookbind Snugger",
+      "Negotiations": 0,
+      "Fights": 3542,
+      "Total": 3542,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "11245188",
+      "Player": "Bernini",
+      "Negotiations": 0,
+      "Fights": 3436,
+      "Total": 3436,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "11807816",
+      "Player": "Dpunk",
+      "Negotiations": 0,
+      "Fights": 3417,
+      "Total": 3417,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "5544177",
+      "Player": "michealscott123",
+      "Negotiations": 0,
+      "Fights": 3181,
+      "Total": 3181,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "855546281",
+      "Player": "pForm",
+      "Negotiations": 0,
+      "Fights": 3180,
+      "Total": 3180,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "11899618",
+      "Player": "Master A",
+      "Negotiations": 0,
+      "Fights": 3064,
+      "Total": 3064,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "851800597",
+      "Player": "Meandmyself",
+      "Negotiations": 0,
+      "Fights": 2937,
+      "Total": 2937,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "6141929",
+      "Player": "Carra",
+      "Negotiations": 0,
+      "Fights": 2843,
+      "Total": 2843,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "827787",
+      "Player": "pywackit",
+      "Negotiations": 0,
+      "Fights": 2715,
+      "Total": 2715,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "854719448",
+      "Player": "ludwig2",
+      "Negotiations": 0,
+      "Fights": 2692,
+      "Total": 2692,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "1891201",
+      "Player": "edman4444",
+      "Negotiations": 0,
+      "Fights": 2605,
+      "Total": 2605,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "849566070",
+      "Player": "Aspandiat",
+      "Negotiations": 0,
+      "Fights": 2601,
+      "Total": 2601,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "850518321",
+      "Player": "alterdestiny",
+      "Negotiations": 0,
+      "Fights": 2541,
+      "Total": 2541,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "851298155",
+      "Player": "willow324",
+      "Negotiations": 0,
+      "Fights": 2423,
+      "Total": 2423,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "854882618",
+      "Player": "CCCC123",
+      "Negotiations": 0,
+      "Fights": 2360,
+      "Total": 2360,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "12351572",
+      "Player": "Cliff59",
+      "Negotiations": 0,
+      "Fights": 2297,
+      "Total": 2297,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "850445151",
+      "Player": "Swan76",
+      "Negotiations": 46,
+      "Fights": 2181,
+      "Total": 2273,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "851616738",
+      "Player": "MagicI",
+      "Negotiations": 0,
+      "Fights": 2272,
+      "Total": 2272,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "5367654",
+      "Player": "King John of Ambler",
+      "Negotiations": 0,
+      "Fights": 2260,
+      "Total": 2260,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "4225910",
+      "Player": "Hadrian the Intrepid 121",
+      "Negotiations": 0,
+      "Fights": 2137,
+      "Total": 2137,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "12992719",
+      "Player": "ChilliBeanz62",
+      "Negotiations": 0,
+      "Fights": 2072,
+      "Total": 2072,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "849612867",
+      "Player": "TINY HEROS",
+      "Negotiations": 0,
+      "Fights": 1959,
+      "Total": 1959,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "850331824",
+      "Player": "Brocksta",
+      "Negotiations": 0,
+      "Fights": 1955,
+      "Total": 1955,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "4749897",
+      "Player": "DutchTheIV",
+      "Negotiations": 0,
+      "Fights": 1946,
+      "Total": 1946,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "851585890",
+      "Player": "SharpSabrina",
+      "Negotiations": 0,
+      "Fights": 1881,
+      "Total": 1881,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "13309306",
+      "Player": "Ser Arthur Dayne.",
+      "Negotiations": 2,
+      "Fights": 1786,
+      "Total": 1790,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "853520455",
+      "Player": "Phillip the Fair",
+      "Negotiations": 0,
+      "Fights": 1706,
+      "Total": 1706,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "5374197",
+      "Player": "Pammy Norrie",
+      "Negotiations": 0,
+      "Fights": 1546,
+      "Total": 1546,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "1436378",
+      "Player": "Dn4lor",
+      "Negotiations": 0,
+      "Fights": 1477,
+      "Total": 1477,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "850307582",
+      "Player": "Rex Bellator",
+      "Negotiations": 0,
+      "Fights": 1404,
+      "Total": 1404,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "9574867",
+      "Player": "Salikas",
+      "Negotiations": 0,
+      "Fights": 1290,
+      "Total": 1290,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "104779",
+      "Player": "VITORO",
+      "Negotiations": 0,
+      "Fights": 1281,
+      "Total": 1281,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "854719004",
+      "Player": "soldier00",
+      "Negotiations": 0,
+      "Fights": 1259,
+      "Total": 1259,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "850665098",
+      "Player": "Ellwinara",
+      "Negotiations": 0,
+      "Fights": 1245,
+      "Total": 1245,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "853106102",
+      "Player": "Brad Field of green",
+      "Negotiations": 0,
+      "Fights": 1092,
+      "Total": 1092,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "11482655",
+      "Player": "El Kabong",
+      "Negotiations": 0,
+      "Fights": 1053,
+      "Total": 1053,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "761097",
+      "Player": "gareth dragonsbane",
+      "Negotiations": 0,
+      "Fights": 1050,
+      "Total": 1050,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "6730017",
+      "Player": "Peace.",
+      "Negotiations": 0,
+      "Fights": 1025,
+      "Total": 1025,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "2465641",
+      "Player": "=Alpha=Wolf=",
+      "Negotiations": 0,
+      "Fights": 1019,
+      "Total": 1019,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "1724508",
+      "Player": "cvetkovic",
+      "Negotiations": 0,
+      "Fights": 973,
+      "Total": 973,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "854714000",
+      "Player": "sixtyodin",
+      "Negotiations": 5,
+      "Fights": 892,
+      "Total": 902,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "854554840",
+      "Player": "SirRobert Artur",
+      "Negotiations": 0,
+      "Fights": 647,
+      "Total": 647,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "1148549",
+      "Player": "mehdialone",
+      "Negotiations": 0,
+      "Fights": 640,
+      "Total": 640,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "853797540",
+      "Player": "Odinn",
+      "Negotiations": 0,
+      "Fights": 615,
+      "Total": 615,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "852293256",
+      "Player": "Rolanddd",
+      "Negotiations": 0,
+      "Fights": 187,
+      "Total": 187,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "849762034",
+      "Player": "Diddler",
+      "Negotiations": 0,
+      "Fights": 0,
+      "Total": 0,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "850938639",
+      "Player": "Green II",
+      "Negotiations": 0,
+      "Fights": 0,
+      "Total": 0,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    },
+    {
+      "Player_ID": "853774595",
+      "Player": "Mr Sonic",
+      "Negotiations": 0,
+      "Fights": 0,
+      "Total": 0,
+      "season": "15 Jan - 26 Jan 2026",
+      "section": "GBG",
+      "imported_at": "2026-03-13T02:11:25.210324"
+    }
+  ],
+  "qi": [
+    {
+      "Player_ID": "705849",
+      "Player": "lasherbob",
+      "Actions": 4262800,
+      "Progress": 12150,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "853267111",
+      "Player": "Kuniggsbog",
+      "Actions": 3855900,
+      "Progress": 11000,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "854719004",
+      "Player": "soldier00",
+      "Actions": 3843900,
+      "Progress": 10950,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "855031788",
+      "Player": "Blackcong",
+      "Actions": 3825800,
+      "Progress": 10910,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "10593569",
+      "Player": "Badvok the Bold",
+      "Actions": 3618000,
+      "Progress": 10310,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "853197494",
+      "Player": "DaFunkyMonkey",
+      "Actions": 3579700,
+      "Progress": 10190,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "854681998",
+      "Player": "Zodman",
+      "Actions": 3250000,
+      "Progress": 9250,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "1436378",
+      "Player": "Dn4lor",
+      "Actions": 3163600,
+      "Progress": 8980,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "849566070",
+      "Player": "Aspandiat",
+      "Actions": 3113500,
+      "Progress": 8850,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "2277993",
+      "Player": "Crusaderx",
+      "Actions": 3018900,
+      "Progress": 8560,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "1891201",
+      "Player": "edman4444",
+      "Actions": 3020300,
+      "Progress": 8400,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "854719448",
+      "Player": "ludwig2",
+      "Actions": 2796400,
+      "Progress": 7780,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "4225910",
+      "Player": "Hadrian the Intrepid 121",
+      "Actions": 2745500,
+      "Progress": 7740,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "855514222",
+      "Player": "HoanggLam",
+      "Actions": 2695900,
+      "Progress": 7680,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "4194345",
+      "Player": "becop",
+      "Actions": 2676800,
+      "Progress": 7620,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "6141929",
+      "Player": "Carra",
+      "Actions": 2665200,
+      "Progress": 7500,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "45238",
+      "Player": "Frodoo",
+      "Actions": 2591700,
+      "Progress": 7370,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "11442171",
+      "Player": "High Lord Timbum",
+      "Actions": 2545900,
+      "Progress": 7240,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "1758550",
+      "Player": "marco965",
+      "Actions": 2549200,
+      "Progress": 7230,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "855546281",
+      "Player": "pForm",
+      "Actions": 2518900,
+      "Progress": 7150,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "11245188",
+      "Player": "Bernini",
+      "Actions": 2510600,
+      "Progress": 7090,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "9762415",
+      "Player": "0p1ate",
+      "Actions": 2453800,
+      "Progress": 6930,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "7954450",
+      "Player": "Bloody Pastor",
+      "Actions": 2433400,
+      "Progress": 6930,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "851914808",
+      "Player": "Selene the Blessed 1233",
+      "Actions": 2427500,
+      "Progress": 6880,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "851616738",
+      "Player": "MagicI",
+      "Actions": 2370000,
+      "Progress": 6670,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "850518321",
+      "Player": "alterdestiny",
+      "Actions": 2317000,
+      "Progress": 6580,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "853735377",
+      "Player": "MOMIS",
+      "Actions": 2276000,
+      "Progress": 6470,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "11807816",
+      "Player": "Dpunk",
+      "Actions": 2297100,
+      "Progress": 6450,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "849603210",
+      "Player": "TSTT",
+      "Actions": 2228600,
+      "Progress": 6320,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "850307582",
+      "Player": "Rex Bellator",
+      "Actions": 2197300,
+      "Progress": 6230,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "850445151",
+      "Player": "Swan76",
+      "Actions": 2140900,
+      "Progress": 6090,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "849612867",
+      "Player": "TINY HEROS",
+      "Actions": 2126600,
+      "Progress": 6050,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "104779",
+      "Player": "VITORO",
+      "Actions": 2129000,
+      "Progress": 6000,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "849380627",
+      "Player": "FastGunner",
+      "Actions": 2108100,
+      "Progress": 6000,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "8622496",
+      "Player": "Waynes world1",
+      "Actions": 2090400,
+      "Progress": 5950,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "12992719",
+      "Player": "ChilliBeanz62",
+      "Actions": 2085700,
+      "Progress": 5920,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "5367654",
+      "Player": "King John of Ambler",
+      "Actions": 2061900,
+      "Progress": 5820,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "40674",
+      "Player": "VFRMark.",
+      "Actions": 2000200,
+      "Progress": 5690,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "827787",
+      "Player": "pywackit",
+      "Actions": 1997600,
+      "Progress": 5680,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "11899618",
+      "Player": "Master A",
+      "Actions": 1967000,
+      "Progress": 5510,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "851513926",
+      "Player": "-=LEO=-",
+      "Actions": 1909100,
+      "Progress": 5430,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "854882618",
+      "Player": "CCCC123",
+      "Actions": 1907100,
+      "Progress": 5420,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "853520455",
+      "Player": "Phillip the Fair",
+      "Actions": 1912000,
+      "Progress": 5390,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "1724508",
+      "Player": "cvetkovic",
+      "Actions": 1880800,
+      "Progress": 5310,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "851598404",
+      "Player": "-Baba Yaga-",
+      "Actions": 1883600,
+      "Progress": 5290,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "853659232",
+      "Player": "friendly",
+      "Actions": 1852900,
+      "Progress": 5200,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "5374197",
+      "Player": "Pammy Norrie",
+      "Actions": 1819300,
+      "Progress": 5170,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "851800597",
+      "Player": "Meandmyself",
+      "Actions": 1818900,
+      "Progress": 5140,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "853797540",
+      "Player": "Odinn",
+      "Actions": 1805600,
+      "Progress": 5090,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "850331824",
+      "Player": "Brocksta",
+      "Actions": 1782500,
+      "Progress": 5060,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "13309306",
+      "Player": "Ser Arthur Dayne.",
+      "Actions": 1755600,
+      "Progress": 4970,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "4749897",
+      "Player": "DutchTheIV",
+      "Actions": 1749700,
+      "Progress": 4960,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "851298155",
+      "Player": "willow324",
+      "Actions": 1803900,
+      "Progress": 4940,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "9795849",
+      "Player": "Magnus the Terrible 439",
+      "Actions": 1708700,
+      "Progress": 4860,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "1234051",
+      "Player": "Devils Deciple.",
+      "Actions": 1718000,
+      "Progress": 4790,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "12351572",
+      "Player": "Cliff59",
+      "Actions": 1686100,
+      "Progress": 4780,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "850665098",
+      "Player": "Ellwinara",
+      "Actions": 1668400,
+      "Progress": 4750,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "852293256",
+      "Player": "Rolanddd",
+      "Actions": 1673200,
+      "Progress": 4670,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "854554840",
+      "Player": "SirRobert Artur",
+      "Actions": 1603900,
+      "Progress": 4500,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "9574867",
+      "Player": "Salikas",
+      "Actions": 1483600,
+      "Progress": 4220,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "853564293",
+      "Player": "Waikis",
+      "Actions": 1476800,
+      "Progress": 4190,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "5544177",
+      "Player": "michealscott123",
+      "Actions": 1481800,
+      "Progress": 4100,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "761097",
+      "Player": "gareth dragonsbane",
+      "Actions": 1438000,
+      "Progress": 4030,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "853106102",
+      "Player": "Brad Field of green",
+      "Actions": 1477600,
+      "Progress": 4010,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "2465641",
+      "Player": "=Alpha=Wolf=",
+      "Actions": 1352700,
+      "Progress": 3840,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "855241613",
+      "Player": "Al3x9150",
+      "Actions": 1334400,
+      "Progress": 3780,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "854648420",
+      "Player": "Pollar",
+      "Actions": 1330300,
+      "Progress": 3770,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "1148549",
+      "Player": "mehdialone",
+      "Actions": 1312400,
+      "Progress": 3730,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "853109616",
+      "Player": "VixenQueen",
+      "Actions": 1264700,
+      "Progress": 3590,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "855640309",
+      "Player": "Claudius titus",
+      "Actions": 1229900,
+      "Progress": 3490,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "11482655",
+      "Player": "El Kabong",
+      "Actions": 1093800,
+      "Progress": 3070,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "3556826",
+      "Player": "peri1",
+      "Actions": 853900,
+      "Progress": 2430,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "851585890",
+      "Player": "SharpSabrina",
+      "Actions": 743000,
+      "Progress": 2110,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "12685645",
+      "Player": "Brudzilla",
+      "Actions": 750000,
+      "Progress": 2070,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "854714000",
+      "Player": "sixtyodin",
+      "Actions": 605400,
+      "Progress": 1700,
+      "season": "19 Feb - 02 Mar 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:46:18.588737"
+    },
+    {
+      "Player_ID": "705849",
+      "Player": "lasherbob",
+      "Actions": 4235200,
+      "Progress": 12080,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "854719004",
+      "Player": "soldier00",
+      "Actions": 3739800,
+      "Progress": 10620,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "853267111",
+      "Player": "Kuniggsbog",
+      "Actions": 3655600,
+      "Progress": 10420,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "855031788",
+      "Player": "Blackcong",
+      "Actions": 3651600,
+      "Progress": 10410,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "10593569",
+      "Player": "Badvok the Bold",
+      "Actions": 3515600,
+      "Progress": 10020,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "854681998",
+      "Player": "Zodman",
+      "Actions": 3176800,
+      "Progress": 9020,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "2277993",
+      "Player": "Crusaderx",
+      "Actions": 3141800,
+      "Progress": 8940,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "1436378",
+      "Player": "Dn4lor",
+      "Actions": 3074000,
+      "Progress": 8730,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "1891201",
+      "Player": "edman4444",
+      "Actions": 3053700,
+      "Progress": 8660,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "849566070",
+      "Player": "Aspandiat",
+      "Actions": 2916200,
+      "Progress": 8290,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "4225910",
+      "Player": "Hadrian the Intrepid 121",
+      "Actions": 2807300,
+      "Progress": 7960,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "6141929",
+      "Player": "Carra",
+      "Actions": 2762000,
+      "Progress": 7740,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "45238",
+      "Player": "Frodoo",
+      "Actions": 2589600,
+      "Progress": 7360,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "851914808",
+      "Player": "Selene the Blessed 1233",
+      "Actions": 2528400,
+      "Progress": 7200,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "11807816",
+      "Player": "Dpunk",
+      "Actions": 2531400,
+      "Progress": 7170,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "11442171",
+      "Player": "High Lord Timbum",
+      "Actions": 2506500,
+      "Progress": 7000,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "11245188",
+      "Player": "Bernini",
+      "Actions": 2447600,
+      "Progress": 6960,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "854719448",
+      "Player": "ludwig2",
+      "Actions": 2460300,
+      "Progress": 6900,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "1758550",
+      "Player": "marco965",
+      "Actions": 2448000,
+      "Progress": 6880,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "9762415",
+      "Player": "0p1ate",
+      "Actions": 2374600,
+      "Progress": 6760,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "855546281",
+      "Player": "pForm",
+      "Actions": 2355100,
+      "Progress": 6700,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "850518321",
+      "Player": "alterdestiny",
+      "Actions": 2280000,
+      "Progress": 6450,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "851616738",
+      "Player": "MagicI",
+      "Actions": 2276300,
+      "Progress": 6440,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "850307582",
+      "Player": "Rex Bellator",
+      "Actions": 2165000,
+      "Progress": 6150,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "849603210",
+      "Player": "TSTT",
+      "Actions": 2167700,
+      "Progress": 6100,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "5544177",
+      "Player": "michealscott123",
+      "Actions": 2126400,
+      "Progress": 6000,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "853735377",
+      "Player": "MOMIS",
+      "Actions": 2096600,
+      "Progress": 5960,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "5367654",
+      "Player": "King John of Ambler",
+      "Actions": 2093500,
+      "Progress": 5910,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "8622496",
+      "Player": "Waynes world1",
+      "Actions": 2067700,
+      "Progress": 5830,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "849380627",
+      "Player": "FastGunner",
+      "Actions": 2020200,
+      "Progress": 5740,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "827787",
+      "Player": "pywackit",
+      "Actions": 2002900,
+      "Progress": 5700,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "850445151",
+      "Player": "Swan76",
+      "Actions": 1979500,
+      "Progress": 5590,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "761097",
+      "Player": "gareth dragonsbane",
+      "Actions": 1904500,
+      "Progress": 5370,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "3556826",
+      "Player": "peri1",
+      "Actions": 1862700,
+      "Progress": 5290,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "104779",
+      "Player": "VITORO",
+      "Actions": 1915500,
+      "Progress": 5280,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "13309306",
+      "Player": "Ser Arthur Dayne.",
+      "Actions": 1856600,
+      "Progress": 5270,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "853520455",
+      "Player": "Phillip the Fair",
+      "Actions": 1852100,
+      "Progress": 5250,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "853659232",
+      "Player": "friendly",
+      "Actions": 1896300,
+      "Progress": 5240,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "851800597",
+      "Player": "Meandmyself",
+      "Actions": 1846600,
+      "Progress": 5230,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "5374197",
+      "Player": "Pammy Norrie",
+      "Actions": 1844400,
+      "Progress": 5230,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "12992719",
+      "Player": "ChilliBeanz62",
+      "Actions": 1865000,
+      "Progress": 5210,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "851598404",
+      "Player": "-Baba Yaga-",
+      "Actions": 1854200,
+      "Progress": 5180,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "854882618",
+      "Player": "CCCC123",
+      "Actions": 1825200,
+      "Progress": 5180,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "849612867",
+      "Player": "TINY HEROS",
+      "Actions": 1815100,
+      "Progress": 5160,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "1724508",
+      "Player": "cvetkovic",
+      "Actions": 1823800,
+      "Progress": 5150,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "11899618",
+      "Player": "Master A",
+      "Actions": 1797900,
+      "Progress": 5090,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "4194345",
+      "Player": "becop",
+      "Actions": 1759700,
+      "Progress": 5010,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "850331824",
+      "Player": "Brocksta",
+      "Actions": 1755700,
+      "Progress": 4990,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "852293256",
+      "Player": "Rolanddd",
+      "Actions": 1772600,
+      "Progress": 4980,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "9795849",
+      "Player": "Magnus the Terrible 439",
+      "Actions": 1750900,
+      "Progress": 4980,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "851298155",
+      "Player": "willow324",
+      "Actions": 1732100,
+      "Progress": 4840,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "1148549",
+      "Player": "mehdialone",
+      "Actions": 1708900,
+      "Progress": 4840,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "853797540",
+      "Player": "Odinn",
+      "Actions": 1728000,
+      "Progress": 4750,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "12351572",
+      "Player": "Cliff59",
+      "Actions": 1661700,
+      "Progress": 4720,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "854554840",
+      "Player": "SirRobert Artur",
+      "Actions": 1624000,
+      "Progress": 4570,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "9574867",
+      "Player": "Salikas",
+      "Actions": 1610000,
+      "Progress": 4570,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "11482655",
+      "Player": "El Kabong",
+      "Actions": 1623000,
+      "Progress": 4540,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "4749897",
+      "Player": "DutchTheIV",
+      "Actions": 1487400,
+      "Progress": 4230,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "2465641",
+      "Player": "=Alpha=Wolf=",
+      "Actions": 1430600,
+      "Progress": 4060,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "851585890",
+      "Player": "SharpSabrina",
+      "Actions": 1161400,
+      "Progress": 3300,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "12685645",
+      "Player": "Brudzilla",
+      "Actions": 1163100,
+      "Progress": 3270,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "854648420",
+      "Player": "Pollar",
+      "Actions": 1096700,
+      "Progress": 3110,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "853109616",
+      "Player": "VixenQueen",
+      "Actions": 1092000,
+      "Progress": 3050,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "850665098",
+      "Player": "Ellwinara",
+      "Actions": 936200,
+      "Progress": 2660,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "853106102",
+      "Player": "Brad Field of green",
+      "Actions": 340400,
+      "Progress": 970,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    },
+    {
+      "Player_ID": "854714000",
+      "Player": "sixtyodin",
+      "Actions": 302400,
+      "Progress": 850,
+      "season": "05 Feb - 16 Feb 2026",
+      "section": "QI",
+      "imported_at": "2026-03-13T00:50:33.392605"
+    }
+  ],
+  "meta": {
+    "last_updated": "2026-03-13T02:11:25.215298"
+  }
+}
